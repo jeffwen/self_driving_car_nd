@@ -1,2 +1,3 @@
-# self_driving_car_nd
-Repository for self driving car materials!
+# Self Driving Car Materials
+The following repository contains materials related to the self driving car nanodegree. 
+
