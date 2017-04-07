@@ -2,3 +2,6 @@
 /course_materials/
 /term1/CarND-LaneLines-P1/
 /term1/CarND-Tensorflow-Lab/
+/term1/CarND-Transfer-Learning-Lab/inception*
+/term1/CarND-Transfer-Learning-Lab/vgg*
+/term1/CarND-Transfer-Learning-Lab/resnet*
